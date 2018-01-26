@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+}
+
+h2 {
+	background-color: #65C5C3;
+	color: #FFFFFF;
+	text-align: center;
+	left: auto;
+	right: auto;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+h3 {
+	background-color: #65C5C3;
+	color: #FFFFFF;
+}
+
+#bio {
+	background-color: gray;
+	color: black;
+	float: left;
+
+}
+section { 
+	background-color: #65C5C3;
+	color: white;
+	float: right;
+}
